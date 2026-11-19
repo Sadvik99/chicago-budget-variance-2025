@@ -1,0 +1,4 @@
+duckdb
+pdfplumber
+pandas
+openpyxl

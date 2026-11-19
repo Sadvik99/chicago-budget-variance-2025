@@ -1,0 +1,35 @@
+Dept Number,Department,Budget ($M),Actual ($M),Variance ($M),Variance %,Direction
+57,Chicago Police Department,1817.87,1980.45,-162.57,-0.0894,Over budget
+59,Chicago Fire Department,592.15,654.5,-62.36,-0.1053,Over budget
+5,Office of Budget and Management,4.02,4.19,-0.18,-0.0442,Over budget
+45,Chicago Commission on Human Relations,1.47,1.51,-0.04,-0.0238,Over budget
+77,License Appeal Commission,0.21,0.17,0.04,0.1893,Under budget
+55,Chicago Police Board,0.51,0.43,0.08,0.1666,Under budget
+72,Department of Environment,1.92,1.8,0.11,0.0596,Under budget
+48,Mayor's Office for People with Disabilities,3.34,3.21,0.13,0.0381,Under budget
+3,Office of Inspector General,10.27,10.11,0.16,0.0155,Under budget
+78,Board of Ethics,0.99,0.7,0.28,0.2875,Under budget
+31,Department of Law,36.49,36.05,0.45,0.0122,Under budget
+28,City Treasurer's Office,3.33,2.85,0.48,0.143,Under budget
+73,Chicago Animal Care and Control,7.52,6.79,0.73,0.0972,Under budget
+15,City Council,35.71,34.94,0.78,0.0218,Under budget
+58,Office of Emergency Management and Communications,10.59,9.64,0.95,0.0896,Under budget
+33,Department of Human Resources,11.4,10.39,1.01,0.0883,Under budget
+30,Department of Administrative Hearings,8.56,7.52,1.04,0.122,Under budget
+21,Department of Housing,10.77,9.72,1.05,0.0972,Under budget
+1,Office of the Mayor,11.52,10.27,1.25,0.1083,Under budget
+54,Department of Planning and Development,15.37,14.08,1.29,0.0839,Under budget
+25,Office of City Clerk,6.03,4.71,1.32,0.2184,Under budget
+60,Civilian Office of Police Accountability,19.08,17.63,1.44,0.0757,Under budget
+35,Department of Procurement Services,11.01,9.48,1.53,0.139,Under budget
+84,Chicago Department of Transportation,49.89,45.39,4.49,0.09,Under budget
+67,Department of Buildings,54.57,49.16,5.41,0.0991,Under budget
+6,Department of Technology and Innovation,43.61,38.18,5.43,0.1246,Under budget
+51,Office of Public Safety Administration,71.9,65.6,6.3,0.0876,Under budget
+81,Department of Streets and Sanitation,278.95,271.69,7.26,0.026,Under budget
+41,Chicago Department of Public Health,75.53,64.67,10.87,0.1439,Under budget
+27,Department of Finance,77.17,65.4,11.78,0.1526,Under budget
+39,Board of Election Commissioners,28.51,13.43,15.08,0.5289,Under budget
+50,Department of Family and Support Services,164.76,145.95,18.8,0.1141,Under budget
+38,Department of Fleet and Facility Management,279.27,259.46,19.81,0.0709,Under budget
+99,Finance General,2144.8,1839.84,304.97,0.1422,Under budget

@@ -1,0 +1,4 @@
+Method,Forecast ($M),Actual ($M),Error ($M),Error %,Sum of dept errors ($M)
+A. Run-rate,4281.48,5689.92,-1408.44,-0.2475,1420.69
+B. Budget,5863.77,5689.92,173.86,0.0306,624.14
+C. Hybrid,5707.69,5689.92,17.77,0.0031,721.79

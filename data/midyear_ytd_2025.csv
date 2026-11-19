@@ -1,0 +1,147 @@
+dept_number,dept_name,fund_code,fund_name,budget,ytd_may
+1,Office of the Mayor,0100,Corporate Fund,11522378,3504083
+1,Office of the Mayor,0355,Special Events and Municipal Hotel Operators',457161,148628
+1,Office of the Mayor,0B21,Tax Increment Financing,121266,46881
+1,Office of the Mayor,0B70,Cannabis Regulation Tax,4687849,121330
+3,Office of Inspector General,0100,Corporate Fund,10274179,4242935
+3,Office of Inspector General,0200,Water Fund,1428618,529606
+3,Office of Inspector General,0314,Sewer Fund,902232,274553
+3,Office of Inspector General,0610,Chicago Midway Airport Fund,269047,81861
+3,Office of Inspector General,0740,Chicago O'Hare Airport Fund,1342122,425388
+5,Office of Budget and Management,0100,Corporate Fund,4017326,1477932
+5,Office of Budget and Management,0200,Water Fund,298228,111222
+5,Office of Budget and Management,0B21,Tax Increment Financing,298542,0
+6,"Department of Technology and Innovation $56,131,894 $12,818,665 23%",0100,Corporate Fund,43610808,10296210
+6,"Department of Technology and Innovation $56,131,894 $12,818,665 23%",0200,Water Fund,10465599,2131347
+6,"Department of Technology and Innovation $56,131,894 $12,818,665 23%",0300,Vehicle Tax Fund,907939,229447
+6,"Department of Technology and Innovation $56,131,894 $12,818,665 23%",0314,Sewer Fund,453280,103645
+6,"Department of Technology and Innovation $56,131,894 $12,818,665 23%",0346,Library Fund,191030,32998
+6,"Department of Technology and Innovation $56,131,894 $12,818,665 23%",0355,Special Events And Municipal Hotel,18969,3288
+6,"Department of Technology and Innovation $56,131,894 $12,818,665 23%",0610,Chicago Midway Airport Fund,68906,0
+6,"Department of Technology and Innovation $56,131,894 $12,818,665 23%",0740,Chicago O'Hare Airport Fund,336557,0
+6,"Department of Technology and Innovation $56,131,894 $12,818,665 23%",0B21,Tax Increment Financing,78806,21731
+15,City Council,0100,Corporate Fund,35713657,12990261
+15,City Council,0300,Vehicle Tax Fund,679524,191787
+15,City Council,0355,Special Events And Municipal Hotel,204832,74713
+15,City Council,0740,Chicago O'Hare Airport Fund,207973,74763
+21,Department of Housing,0100,Corporate Fund,10768431,6007901
+21,Department of Housing,0996,"Affordable Housing Opportunity Fund $1,229,022",1229022,893840
+21,Department of Housing,0B21,Tax Increment Financing,1178150,256014
+23,Department of Cultural Affairs and Special,0355,Special Events And Municipal Hotel,44292225,5786072
+25,City Clerk,0100,Corporate Fund,6025478,1329813
+25,City Clerk,0300,Vehicle Tax Fund,9029275,3028995
+27,Department of Finance,0100,Corporate Fund,77174853,23796627
+27,Department of Finance,0200,Water Fund,12942076,4563543
+27,Department of Finance,0300,Vehicle Tax Fund,2286207,441976
+27,Department of Finance,0314,Sewer Fund,2101824,683342
+27,Department of Finance,0610,Chicago Midway Airport Fund,445552,161400
+27,Department of Finance,0740,Chicago O'Hare Airport Fund,3111308,1020513
+27,Department of Finance,0B21,Tax Increment Financing,684721,78795
+27,Department of Finance,0B26,Chicago Parking Meters Fund,6500000,4858589
+28,City Treasurer,0100,Corporate Fund,3327752,1077707
+28,City Treasurer,0200,Water Fund,603240,165653
+28,City Treasurer,0314,Sewer Fund,277111,170818
+28,City Treasurer,0610,Chicago Midway Airport Fund,443559,200075
+28,City Treasurer,0740,Chicago O'Hare Airport Fund,1357541,593397
+28,City Treasurer,0B21,Tax Increment Financing,529894,192246
+30,"Department of Administrative Hearings $8,560,776",0100,Corporate Fund,8560776,2766315
+31,Department of Law,0100,Corporate Fund,36492597,13656829
+31,Department of Law,0200,Water Fund,1940440,652052
+31,Department of Law,0300,Vehicle Tax Fund,2257423,652487
+31,Department of Law,0314,Sewer Fund,1007394,347141
+31,Department of Law,0610,Chicago Midway Airport Fund,511399,198331
+31,Department of Law,0740,Chicago O'Hare Airport Fund,2581714,869740
+31,Department of Law,0B21,Tax Increment Financing,1022717,417964
+33,Department of Human Resources,0100,Corporate Fund,11399730,3600291
+33,Department of Human Resources,0200,Water Fund,307073,64778
+33,Department of Human Resources,0300,Vehicle Tax Fund,54000,0
+33,Department of Human Resources,0610,Chicago Midway Airport Fund,133313,51539
+33,Department of Human Resources,0740,Chicago O'Hare Airport Fund,497984,167365
+35,Department of Procurement Services,0100,Corporate Fund,11013882,3146064
+35,Department of Procurement Services,0200,Water Fund,473389,171609
+35,Department of Procurement Services,0300,Vehicle Tax Fund,149154,0
+35,Department of Procurement Services,0610,Chicago Midway Airport Fund,424906,140518
+35,Department of Procurement Services,0740,Chicago O'Hare Airport Fund,1843791,581316
+38,"Department of Fleet and Facility Management $505,403,694 $108,156,018 21%",0100,Corporate Fund,279266414,74263261
+38,"Department of Fleet and Facility Management $505,403,694 $108,156,018 21%",0200,Water Fund,47693015,7373278
+38,"Department of Fleet and Facility Management $505,403,694 $108,156,018 21%",0300,Vehicle Tax Fund,27765435,4613357
+38,"Department of Fleet and Facility Management $505,403,694 $108,156,018 21%",0310,Motor Fuel Tax Fund,22269908,4178999
+38,"Department of Fleet and Facility Management $505,403,694 $108,156,018 21%",0314,Sewer Fund,8494141,2983339
+38,"Department of Fleet and Facility Management $505,403,694 $108,156,018 21%",0346,Library Fund,26860863,3064409
+38,"Department of Fleet and Facility Management $505,403,694 $108,156,018 21%",0355,Special Events And Municipal Hotel,9802884,0
+38,"Department of Fleet and Facility Management $505,403,694 $108,156,018 21%",0610,Chicago Midway Airport Fund,14860721,2743021
+38,"Department of Fleet and Facility Management $505,403,694 $108,156,018 21%",0740,Chicago O'Hare Airport Fund,68390313,8936353
+39,Board of Election Commissioners,0100,Corporate Fund,28507734,6161764
+41,Department of Public Health,0100,Corporate Fund,75532392,18011061
+45,Commission on Human Relations,0100,Corporate Fund,1472810,528542
+48,"Mayor's Office For People With Disabilities $3,335,880 $1,062,748 32%",0100,Corporate Fund,3335880,1062748
+50,"Department of Family and Support Services $187,483,154 $29,965,268 16%",0100,Corporate Fund,164759154,25220580
+50,"Department of Family and Support Services $187,483,154 $29,965,268 16%",0B93,"Houseshare Surcharge - Homeless Services $13,708,000 $2,870,638 21%",13708000,2870638
+50,"Department of Family and Support Services $187,483,154 $29,965,268 16%",0B94,"Houseshare Surcharge - Domestic Violence $9,016,000 $1,874,050 21%",9016000,1874050
+51,"Office of Public Safety Administration $126,328,585 $28,875,474 23%",0100,Corporate Fund,71898244,15752052
+51,"Office of Public Safety Administration $126,328,585 $28,875,474 23%",0353,Emergency Communication Fund,54355865,13114918
+51,"Office of Public Safety Administration $126,328,585 $28,875,474 23%",0610,Chicago Midway Airport Fund,42238,8505
+51,"Office of Public Safety Administration $126,328,585 $28,875,474 23%",0740,Chicago O'Hare Airport Fund,32238,0
+54,"Department of Planning and Development $25,172,760 $6,913,346 27%",0100,Corporate Fund,15374675,4501160
+54,"Department of Planning and Development $25,172,760 $6,913,346 27%",0B21,Tax Increment Financing,9798085,2412187
+55,Police Board,0100,Corporate Fund,509970,153495
+57,Chicago Police Department,0100,Corporate Fund,1817872823,734171280
+57,Chicago Police Department,0610,Chicago Midway Airport Fund,9378076,2690477
+57,Chicago Police Department,0740,Chicago O'Hare Airport Fund,27609618,8116467
+57,Chicago Police Department,0994,Controlled Substances Fund,100000,0
+57,Chicago Police Department,0B25,Chicago Police CTA Detail Fund,30000000,9125773
+58,Office of Emergency Management and,0100,Corporate Fund,10588072,3860082
+58,Office of Emergency Management and,0353,Emergency Communication Fund,63564819,20940005
+58,Office of Emergency Management and,0610,Chicago Midway Airport Fund,2108647,267756
+58,Office of Emergency Management and,0740,Chicago O'Hare Airport Fund,4703470,1031928
+59,Chicago Fire Department,0100,Corporate Fund,592145092,250530409
+59,Chicago Fire Department,0610,Chicago Midway Airport Fund,8923352,3286659
+59,Chicago Fire Department,0740,Chicago O'Hare Airport Fund,32385562,12816033
+60,"Civilian Office of Police Accountability $15,089,632 $5,188,715 34%",0100,Corporate Fund,15089632,5188715
+62,Community Commission For Public Safety and,0100,Corporate Fund,3986182,1182817
+67,Department of Buildings,0100,Corporate Fund,32127244,10063053
+67,Department of Buildings,0200,Water Fund,4390459,1464505
+67,Department of Buildings,0300,Vehicle Tax Fund,626563,240917
+67,Department of Buildings,0314,Sewer Fund,2336590,500458
+70,Department of Business Affairs and Consumer,0100,Corporate Fund,22443676,7018234
+70,Department of Business Affairs and Consumer,0B21,Tax Increment Financing,375000,0
+72,Department of Environment,0100,Corporate Fund,1916239,570697
+73,Chicago Animal Care and Control,0100,Corporate Fund,7519976,2431995
+77,License Appeal Commission,0100,Corporate Fund,206624,52557
+78,Board of Ethics,0100,Corporate Fund,985480,272259
+81,"Department Of Streets and Sanitation $349,858,177 $110,484,723 32%",0100,Corporate Fund,205489861,58810535
+81,"Department Of Streets and Sanitation $349,858,177 $110,484,723 32%",0300,Vehicle Tax Fund,52099583,14631294
+81,"Department Of Streets and Sanitation $349,858,177 $110,484,723 32%",0310,Motor Fuel Tax Fund,18805345,2159128
+81,"Department Of Streets and Sanitation $349,858,177 $110,484,723 32%",0B32,Garbage Collection Fund,73463388,34883765
+84,"Chicago Department of Transportation $233,939,231 $65,409,967 28%",0100,Corporate Fund,49886190,14214000
+84,"Chicago Department of Transportation $233,939,231 $65,409,967 28%",0300,Vehicle Tax Fund,79417481,25516577
+84,"Chicago Department of Transportation $233,939,231 $65,409,967 28%",0310,Motor Fuel Tax Fund,104279405,25569576
+84,"Chicago Department of Transportation $233,939,231 $65,409,967 28%",0B21,Tax Increment Financing,356155,109816
+85,Department of Aviation,0610,Chicago Midway Airport Fund,169625494,40897187
+85,Department of Aviation,0740,Chicago O'Hare Airport Fund,662646543,177321161
+88,Department of Water Management,0200,Water Fund,298231356,102776647
+88,Department of Water Management,0314,Sewer Fund,102275927,27708289
+91,Chicago Public Library,0346,Library Fund,88824855,31852390
+99,Finance General,0100,Corporate Fund,2117197528,427149958
+99,Finance General,0200,Water Fund,537901015,139299673
+99,Finance General,0300,Vehicle Tax Fund,102970730,35315909
+99,Finance General,0310,Motor Fuel Tax Fund,3245005,0
+99,Finance General,0314,Sewer Fund,335326182,59605895
+99,Finance General,0346,Library Fund,32019121,9893594
+99,Finance General,0353,Emergency Communication Fund,50539729,13646769
+99,Finance General,0355,Special Events and Municipal Hotel Operators',15461181,4753812
+99,Finance General,0510,"Bond Redemption and Interest Series Fund $417,653,349 $74,150 0%",417653349,74150
+99,Finance General,0521,Library Note Redemption and Interest Tender,122026000,0
+99,Finance General,0610,Chicago Midway Airport Fund,192029764,8457964
+99,Finance General,0681,Municipal Employees' Annuity and Benefit,1131544851,231887077
+99,Finance General,0682,Laborers' and Retirement Board Annuity,158505705,40375493
+99,Finance General,0683,"Policemen's Annuity and Benefit Fund $1,142,480,593 $362,268,408 32%",1142480593,362268408
+99,Finance General,0684,"Firemen's Annuity and Benefit Fund $474,003,222 $148,570,872 31%",474003222,148570872
+99,Finance General,0740,Chicago O'Hare Airport Fund,1134500174,44221626
+99,Finance General,0996,"Affordable Housing Opportunity Fund $804,390",804390,128412
+99,Finance General,0B09,CTA Real Property Transfer Tax,59327255,18190691
+99,Finance General,0B21,Tax Increment Financing,6392847,2447854
+99,Finance General,0B32,Garbage Collection Fund,2297809,0
+99,Finance General,0B70,Cannabis Regulation Tax,1513238,0
+99,Finance General,0B93,"Houseshare Surcharge - Homeless Services $1,192,000 $0    0%",1192000,0
+99,Finance General,0B94,"Houseshare Surcharge - Domestic Violence $784,000",784000,0
